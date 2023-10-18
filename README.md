@@ -55,7 +55,7 @@ I consider my results good based on the following criteria:
 
 - Visual Appeal: The visual representation of the characters using Canva enhances their appeal. Aesthetically pleasing and visually coherent characters are more likely to capture the readers' attention and imagination.
 
-- Reader Feedback: To further validate the quality of my results, I can gather feedback from beta readers or writing communities. Positive feedback regarding the characters' relatability and depth would indicate the success of my approach. Also i would be editing few images to make characters more interesting ehnce it is necessary
+- Reader Feedback: To further validate the quality of my results, I can gather feedback from beta readers or writing communities. Positive feedback regarding the characters' relatability and depth would indicate the success of my approach. Also i would be editing few images to make characters more interesting hence it is necessary
 to get the necessary feedback .
 
 - Story Flow: As I integrate these characters into my novel, I can assess how smoothly they fit into the storyline. If the characters seamlessly integrate into the plot and contribute meaningfully to the narrative, it indicates the success of the character development process.
