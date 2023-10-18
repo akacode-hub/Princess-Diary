@@ -22,9 +22,11 @@ Image 5: Princess while dressing modified look using cavas
 
 ![](6.PNG)
 
-Image 6:New look of cinderella in purple dress!
+
+Image 6: New look of cinderella in purple dress!
 
 ![](7.PNG)
+
 
 Image 7: Comparing original image vs the modified one
 
