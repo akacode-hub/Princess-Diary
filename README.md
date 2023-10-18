@@ -7,8 +7,11 @@ This repository makes a graphic novel using generative AI along with latest tool
 - For now i have taken example of Cinderella. 
 
 # Sample Images:
-Image 1:
-- ![Wallpaper](1.PNG)
+Image 1: Wallpaper
+![Wallpaper](1.PNG)
+Image 2: Preparation to meet Prince
+![](3.PNG)
+  
 
 
 ## What is the question you are solving?
