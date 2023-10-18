@@ -11,7 +11,10 @@ Image 1: Wallpaper
 ![Wallpaper](1.PNG)
 Image 2: Preparation to meet Prince
 ![](3.PNG)
-  
+Image 3: Magic Spell
+![](2.PNG)
+Image 4:Dress worn by princess orginal and its effects in different backgrounds
+![modified](4.PNG) ![original](5.PNG)  
 
 
 ## What is the question you are solving?
