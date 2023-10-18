@@ -16,6 +16,12 @@ Image 3: Magic Spell
 Image 4: Dress worn by princess orginal and its effects in different backgrounds 
 ![modified] (4.PNG)
 ![original] (5.PNG)  
+Image 5: Princess while dressing modified look using cavas 
+![]6.PNG
+Image 6:New look of cinderella in purple dress!
+![]7.PNG
+Image 7: Comparing original image vs the modified one
+![]8.PNG
 
 
 ## What is the question you are solving?
