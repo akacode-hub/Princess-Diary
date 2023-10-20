@@ -68,8 +68,8 @@ Image 7: Comparing original image vs the modified one
 ## What work is expected every week?
 Intially geting hands on practise over MidJourney is necessary . Then weekly developing images so that it describes one phase of life of the character to end in your own imaginative way is atleast expected . 
 My weekly report template 
-
-Week Number : Task Done : ...............
+              Week Number
+              Task Done : ...............
 
               Things Learnt: ...................
               
