@@ -7,7 +7,7 @@ The question I am solving is how to create a compelling novel based on the varie
 
 ## Why is it interesting ?
 
-This is intresting because it helps use to leverage the recent technology of Geneartive AI to apply in AI artistic skills and helps us to think creatively about the characters that are being involved . 
+This is interesting because it helps us to leverage the recent technology of Generative AI to apply in AI artistic skills and helps us to think creatively about the characters that are being involved . Hence leveraging the skills that I have learnt in Machine Learning – Deep Learning can be utilized here to understand how generative AI is being used. 
 
 ## How are you doing it?
 
@@ -67,3 +67,9 @@ Image 7: Comparing original image vs the modified one
 
 ## What work is expected every week?
 Intially geting hands on practise over MidJourney is necessary . Then weekly developing images so that it describes one phase of life of the character to end in your own imaginative way is atleast expected . 
+My weekly report template 
+Week Number : Task Done : ...............
+              Things Learnt: ...................
+              Feedback/Improvement:..............................
+              Next Wek Goal:..............................................
+
