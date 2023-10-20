@@ -66,4 +66,4 @@ Image 7: Comparing original image vs the modified one
 ![](8.PNG)
 
 ## What work is expected every week?
-Intially geting hands on practise over MidJourney is necessary . Then weekly developing images so that it describes one phase of life of the cahracter end to end in your own imaginative way is atleast expected . 
+Intially geting hands on practise over MidJourney is necessary . Then weekly developing images so that it describes one phase of life of the character to end in your own imaginative way is atleast expected . 
